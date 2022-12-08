@@ -1,4 +1,5 @@
 # CYSE 465 final project
+Joel Alanes
 
 Tasks and contributions:
 
@@ -6,7 +7,8 @@ Tasks and contributions:
 - Learn the process of creating a new map in the SVL simulator in case a new one is needed for testing by following these steps: https://www.svlsimulator.com/docs/simulation-content/add-new-map/
 - Learn to deploy ADE as it is a docker container that will be needed  to run apollo along with LGSVL simulator to run our attack scenario. The following commands were used: ade start, ade enter, source /opt/ros/dashing/setup.bash, sudo apt update, sudo apt install ros-dashing-turtlesim, sudo apt install ros-dashing-rqt-*, sudo apt-install byobu. These are the commands to update the system and install ros dashing and other tools.
 - Found and provided documentation on how to start multiple ADE instances as well as the commands needed to clear unused docker images as storage was one of our constraints since we were testing constantly which  led to additional unused images : https://ade-cli.readthedocs.io/en/latest/usage.html
-- The following picture is from a team meeting where simulation tests were being conducted on the map created by Jack.
+- Participated on team meeting where simulation tests were being conducted.
+- The following picture is from a simulation test being conducted on the map created by Jack.
  
 ![image](https://user-images.githubusercontent.com/118318173/206329023-db2d1e9b-0215-49c4-8954-81a8b16d4701.png)
 - Become familiar on how to launch apollo alongside the SVL simulator for testing sessions by following the steps found here: https://www.svlsimulator.com/docs/system-under-test/apollo5-0-instructions/
